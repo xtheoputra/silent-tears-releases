@@ -1,0 +1,11 @@
+# Secrets
+.env*
+!.env.example
+
+# Build outputs and local files
+*.exe
+*.zip
+*.db
+*.sqlite
+.DS_Store
+Thumbs.db
